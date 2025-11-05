@@ -14,10 +14,13 @@ Nexts.js + TypeScript 언어 사용
    - npm shadcn-ui@latest init
 
 3. shadcn 컴포넌트 설치
-  - npm shadcn@latest add button card dialog form input label select textarea alert dropdown-menu avatar
-   
-4. 스토리북 설치 (필수X)
-   - storybook@latest init
+  - npm shadcn@latest add button card dialog form input label select textarea alert dropdown-menu avatar (임시 공통 컴포넌트 설치)
+  - https://ui.shadcn.com/docs/components 에서 확인후 사용할 공통 컴포넌트 설치
 
    
+4. 필수X - 스토리북 설치
+   - storybook@latest init
+
+5. 1-4번 과정 완료후 터미널 창에서 npm run dev 입력후 로컬주소 복사하여 브라우저에서 확인가능
+6.  개별로컬주소입력/components-guide -> 임시 컴포넌트 가이드 페이지 
 
